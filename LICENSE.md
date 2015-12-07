@@ -1,3 +1,7 @@
+# License for posts
+
+They are published under a CC-BY-ND license. For anything else:
+
 # Released under MIT License
 
 Copyright (c) 2013 Mark Otto.
