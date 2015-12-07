@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Another Blog with Jekyll
+comments: true
 ---
 
 So, here it is, finally I could convince myself to actually set up a blog. :D
