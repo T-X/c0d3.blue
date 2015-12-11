@@ -26,3 +26,8 @@ author:
 version:             2.0.0
 github:
   repo:              https://github.com/T-X/c0d3.blue
+
+pages_list:
+  '0xAB+out': '/about'
+  '0xA2C+hive': '/archive'
+  '0xFEED': '/atom.xml'
