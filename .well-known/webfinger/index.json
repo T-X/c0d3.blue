@@ -1,0 +1,28 @@
+{
+  "subject": "acct:T_X@blog.c0d3.blue",
+  "aliases": [
+    "https://chaos.social/@T_X",
+    "https://chaos.social/users/T_X"
+  ],
+  "links": [
+    {
+      "rel": "http://webfinger.net/rel/profile-page",
+      "type": "text/html",
+      "href": "https://chaos.social/@T_X"
+    },
+    {
+      "rel": "self",
+      "type": "application/activity+json",
+      "href": "https://chaos.social/users/T_X"
+    },
+    {
+      "rel": "http://ostatus.org/schema/1.0/subscribe",
+      "template": "https://chaos.social/authorize_interaction?uri={uri}"
+    },
+    {
+      "rel": "http://webfinger.net/rel/avatar",
+      "type": "image/gif",
+      "href": "https://assets.chaos.social/accounts/avatars/107/153/828/088/882/262/original/945e117c8298d3d5.gif"
+    }
+  ]
+}

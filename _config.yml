@@ -30,3 +30,5 @@ pages_list:
   '0xAB+out': '/about'
   '0xA2C+hive': '/archive'
   '0xFEED': '/atom.xml'
+
+include: [".well-known"]
